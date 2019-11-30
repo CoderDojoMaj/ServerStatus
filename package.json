@@ -1,7 +1,7 @@
 {
-  "name": "trexpack",
+  "name": "server_status",
   "version": "1.0.0",
-  "description": "hello",
+  "description": "A server status web client",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist/",
