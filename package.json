@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "chart.js": "^2.9.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsxlite": "^2.0.0",
     "rimraf": "^3.0.0"
   },
